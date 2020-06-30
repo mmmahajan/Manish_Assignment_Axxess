@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Manish_Assignment_Axxess/Pods-Manish_Assignment_Axxess-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
